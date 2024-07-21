@@ -29,9 +29,7 @@ As part of learning to code,I completed a project that involved creating a basic
 
 
 
-## Screenshot-
-
-![image](https://user-images.githubusercontent.com/48729682/227184261-88aca988-1aa2-4472-aa87-7b6f51d6f4b4.png)
+Here is the Link: https://vaibhav15rj.github.io/Netflix--Clone/
 
 
 
